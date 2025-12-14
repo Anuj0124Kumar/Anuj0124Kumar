@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://portfolio-anuj-ten.vercel.app/" target="_blank">🌐 Portfolio</a> •
-  <a href="https://drive.google.com/file/d/1k2PpPcJ7Zfo1T9zspeDcsrRXdNlQuOLP/view" target="_blank">📄 Resume</a> •
+  <a href="https://drive.google.com/file/d/1xGKHb6PZt5cIMo1KS9GRXdOwPIjVEYQW/view?usp=sharing" target="_blank">📄 Resume</a> •
   <a href="mailto:anuj0214@gmail.com">📧 Email</a>
 </p>
 
